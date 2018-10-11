@@ -23,9 +23,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/bootstrap.native/dist/bootstrap-native.min.js",
+              "node_modules/bootstrap.native/dist/bootstrap-native-v4.min.js"
+            ]
           },
           "configurations": {
             "production": {

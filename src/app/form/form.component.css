@@ -1,0 +1,92 @@
+.main-container {
+  padding: 20px;
+}
+
+.form-inline {
+  margin-bottom: 10px;
+}
+
+.form-inline label, .form-inline input, .form-inline select {
+  margin-right: 10px;
+}
+
+.form-inline input, .form-inline select {
+  width: 250px !important;
+}
+
+input {
+  background-color: white !important
+}
+
+.form-inline label {
+  width: 160px;
+  justify-content: left;
+}
+
+.container-button-send {
+  width: 100%;
+  text-align: right;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+button {
+  margin-right: 10px;
+}
+
+.pagination {
+  justify-content: flex-end;
+}
+
+.container-pagination {
+  display: flex;
+  justify-content: flex-end;
+  align-items: baseline;
+}
+
+.container-pagination > span {
+  font-weight: bold;
+  margin-right: 10px;
+  font-size: 14px;
+}
+
+.contianer-lista {
+  min-height: 200px;
+  margin-bottom: 20px;
+}
+
+.date {
+  background-color: white;
+}
+
+.btn-default {
+  color: #333;
+  background-color: #fff;
+  border-color: #ccc;
+}
+
+.table-fotter {
+  display: inline-block;
+  text-align: right;
+  width: 100%;
+}
+
+.container-busqueda {
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.table-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 10px;
+}
+
+fa-icon {
+  cursor: pointer;
+}
+
+.red {
+  color: red;
+}
